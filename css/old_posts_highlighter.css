@@ -1,0 +1,8 @@
+.wrap h2 {margin-top: 32px;}
+#OPH .options {overflow: hidden;border: none;}
+#OPH .option { overflow: hidden;border-bottom: dashed 1px #ccc;padding-bottom: 9px;padding-top: 9px;}
+#OPH .option label {display: block;float: left;width: 400px;margin-right: 10px;text-align: left;font-weight: bold;}
+#OPH .option span {display: block;float: left;margin-left: 230px;margin-top: 6px;clear: left;}
+#OPH p.submit {overflow: hidden;}
+#OPH .option span {color: #666;display: block;}
+#categories {height: 150px;overflow: auto;width: 500px;margin: 10px;}

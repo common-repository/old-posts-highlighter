@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Old Posts Highlighter\n"
+"POT-Creation-Date: 2014-04-18 09:30+0100\n"
+"PO-Revision-Date: 2014-04-18 09:30+0100\n"
+"Last-Translator: MKH <contact@mkh.fr>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: OPH_admin.php:35
+msgid "Options du module Old Posts Highlighter mises à jour"
+msgstr "Options du module Old Posts Highlighter mises à jour"
+
+#: OPH_admin.php:92
+msgid "Options du module OPH mises à jour."
+msgstr "Options du module OPH mises à jour."
+
+#: OPH_admin.php:161
+msgid "Old Posts Highlighter : Mise en avant d'anciens articles"
+msgstr "Old Posts Highlighter : Mise en avant d'anciens articles"
+
+#: OPH_admin.php:167
+msgid ""
+"Si vous voulez automatiser la (re)publication de vos articles sur les "
+"réseaux sociaux, voici les <b>outils gratuits</b> que nous vous conseillons "
+"(ils utilisent le <a href=\"/feed\" target=\"_blank\">RSS</a> de votre "
+"site) :"
+msgstr ""
+
+#: OPH_admin.php:175
+msgid "Intervalle minimum entre les publications "
+msgstr "Intervalle minimum entre les publications "
+
+#: OPH_admin.php:177
+msgid "15 Minutes"
+msgstr "15 Minutes"
+
+#: OPH_admin.php:178
+msgid "30 Minutes"
+msgstr "30 Minutes"
+
+#: OPH_admin.php:179
+msgid "1 Heure"
+msgstr "1 Heure"
+
+#: OPH_admin.php:179
+msgid "2 Heures"
+msgstr "2 Heures"
+
+#: OPH_admin.php:180
+msgid "4 Heures"
+msgstr "4 Heures"
+
+#: OPH_admin.php:181
+msgid "6 Heures"
+msgstr "6 Heures"
+
+#: OPH_admin.php:182
+msgid "12 Heures"
+msgstr "12 Heures"
+
+#: OPH_admin.php:183
+msgid "24 Heures (1 jour)"
+msgstr "24 Heures (1 jour)"
+
+#: OPH_admin.php:184
+msgid "48 Heures (2 jours)"
+msgstr "48 Heures (2 jours)"
+
+#: OPH_admin.php:185
+msgid "72 Heures (3 jours)"
+msgstr "72 Heures (3 jours)"
+
+#: OPH_admin.php:186
+msgid "168 Heures (7 jours)"
+msgstr "168 Heures (7 jours)"
+
+#: OPH_admin.php:191
+msgid "Intervalle aléatoire (ajouté à l'intervalle minimum) : "
+msgstr "Intervalle aléatoire (ajouté à l'intervalle minimum) : "
+
+#: OPH_admin.php:193
+msgid "Jusqu'à 1 Heure"
+msgstr "Jusqu'à 1 Heure"
+
+#: OPH_admin.php:193
+msgid "Jusqu'à 2 Heures"
+msgstr "Jusqu'à 2 Heures"
+
+#: OPH_admin.php:194
+msgid "Jusqu'à 4 Heures"
+msgstr "Jusqu'à 4 Heures"
+
+#: OPH_admin.php:195
+msgid "Jusqu'à 6 Heures"
+msgstr "Jusqu'à 6 Heures"
+
+#: OPH_admin.php:196
+msgid "Jusqu'à 12 Heures"
+msgstr "Jusqu'à 12 Heures"
+
+#: OPH_admin.php:197
+msgid "Jusqu'à 24 Heures (1 jour)"
+msgstr "Jusqu'à 24 Heures (1 jour)"
+
+#: OPH_admin.php:201
+msgid "Age minimum d'un article pour pouvoir être mis en avant : "
+msgstr "Age minimum d'un article pour pouvoir être mis en avant : "
+
+#: OPH_admin.php:202
+msgid "7 Jours"
+msgstr "7 Jours"
+
+#: OPH_admin.php:203
+msgid "30 Jours"
+msgstr "30 Jours"
+
+#: OPH_admin.php:204
+msgid "60 Jours"
+msgstr "60 Jours"
+
+#: OPH_admin.php:205
+msgid "90 Jours"
+msgstr "90 Jours"
+
+#: OPH_admin.php:206
+msgid "120 Jours"
+msgstr "120 Jours"
+
+#: OPH_admin.php:207
+msgid "240 Jours"
+msgstr "240 Jours"
+
+#: OPH_admin.php:208
+msgid "365 Jours"
+msgstr "365 Jours"
+
+#: OPH_admin.php:209
+msgid "730 Jours"
+msgstr "730 Jours"
+
+#: OPH_admin.php:213
+msgid ""
+"Mettre en avant à la position (En position 2, l'article le plus récent reste "
+"le premier) : "
+msgstr ""
+"Mettre en avant à la position (En position 2, l'article le plus récent reste "
+"le premier) : "
+
+#: OPH_admin.php:215
+msgid "1"
+msgstr "1"
+
+#: OPH_admin.php:216
+msgid "2"
+msgstr "2"
+
+#: OPH_admin.php:221
+msgid "Afficher la date de première publication en fin d'article ? "
+msgstr "Afficher la date de première publication en fin d'article ? "
+
+#: OPH_admin.php:223 OPH_admin.php:231 OPH_admin.php:239
+msgid "Oui"
+msgstr "Oui"
+
+#: OPH_admin.php:224 OPH_admin.php:232 OPH_admin.php:240
+msgid "Non"
+msgstr "Non"
+
+#: OPH_admin.php:229
+msgid "Afficher la date de première publication en début d'article "
+msgstr "Afficher la date de première publication en début d'article "
+
+#: OPH_admin.php:237
+msgid "Envie de nous remercier en nous faisant un lien ?"
+msgstr "Envie de nous remercier en nous faisant un lien ?"
+
+#: OPH_admin.php:245
+msgid "Catégories à ne pas prendre en compte pour la mise en avant"
+msgstr "Catégories à ne pas prendre en compte pour la mise en avant"
+
+#: OPH_admin.php:254
+msgid ""
+"Prendre en compte les articles suivants de ces catégories<br/>Format ID,ID,"
+"ID, ... (ex : 53,109,257)"
+msgstr ""
+"Prendre en compte les articles suivants de ces catégories<br/>Format ID,ID,"
+"ID, ... (ex : 53,109,257)"
+
+#: OPH_admin.php:262
+msgid "Mettre à jour les options"
+msgstr "Mettre à jour les options"
+
+#: OPH_core.php:193
+#, fuzzy
+msgid ""
+"Mis en avant grâce à <a rel=\"nofollow\" href=\"http://www.mkh.fr/old-posts-"
+"highlighter/\">Old Posts Highlighter</a>"
+msgstr ""
+"Mis en avant grâce à <a rel=\"nofollow\" href=\"http://www.mkh.fr/old-post-"
+"highlighter/\">Old Posts Highlighter</a>"
+
+#: Old_Posts_Highlighter.php:72
+msgid "Options"
+msgstr "Options"
+
+#~ msgid ""
+#~ "Ce module va choisir aléatoirement un ancien article pour changer sa date "
+#~ "de publication. Cela va permettre de booster la visibilité de  vos "
+#~ "anciens articles en les publiant sur la page d'accueil et dans le flux "
+#~ "RSS. <strong>Attention : ce module ne supporte pas les urls utilisant le "
+#~ "système de dates.</strong> <i>Prochaine option : Définition de plages "
+#~ "horaires pour poster de nouveaux articles.</i> <a href=\"options-general."
+#~ "php?page=OPH_admin.php\">Configuration du module.</a>"
+#~ msgstr ""
+#~ "Ce module va choisir aléatoirement un ancien article pour changer sa date "
+#~ "de publication. Cela va permettre de booster la visibilité de  vos "
+#~ "anciens articles en les publiant sur la page d'accueil et dans le flux "
+#~ "RSS. <strong>Attention : ce module ne supporte pas les urls utilisant le "
+#~ "système de dates.</strong> <i>Prochaine option : Définition de plages "
+#~ "horaires pour poster de nouveaux articles.</i> <a href=\"options-general."
+#~ "php?page=OPH_admin.php\">Configuration du module.</a>"
+
+#~ msgid "Article publié pour la première fois le "
+#~ msgstr "Article publié pour la première fois le "
